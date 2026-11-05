@@ -1130,13 +1130,13 @@
             </material>
         </visual>
     </link>
-    <joint name="x_joint" type="prismatic">
+    <!--joint name="x_joint" type="prismatic">
         <axis xyz="0 0 1" />
         <limit effort="0" velocity="1.0" lower="-0.175" upper="0.165" />
         <parent link="y_axis_respondable" />
         <child link="X_parts" />
         <origin xyz="0.098000 0.352930 0.105000" rpy="-1.570796 3.141593 -3.141589" />
-    </joint>
+    </joint-->
     <link name="X_parts">
         <visual name="X_parts">
             <origin xyz="-0.085401 0.000477 0.221500" rpy="-3.141593 4.712385 -0.000004" />
@@ -1220,13 +1220,13 @@
             </material>
         </visual>
     </link>
-    <joint name="y_rev_joint" type="revolute">
+    <!--joint name="y_rev_joint" type="revolute">
         <axis xyz="0 0 1" />
         <limit effort="0.0" velocity="0.0" lower="-87266.462599722" upper="87266.462599722" />
         <parent link="robot_base" />
         <child link="y_axis_rev_respondable" />
         <origin xyz="0.100180 0.405008 0.679000" rpy="-1.570796 4.550196 0.000004" />
-    </joint>
+    </joint-->
     <link name="y_axis_rev_respondable">
         <collision name="y_axis_rev_respondable">
             <origin xyz="0.000000 0.000000 0.000000" rpy="0.000000 -1.570796 0.000000" />
