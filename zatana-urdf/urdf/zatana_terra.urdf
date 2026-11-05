@@ -1108,7 +1108,7 @@
     </link>
     <joint name="y_joint" type="prismatic">
         <axis xyz="0 0 1" />
-        <limit effort="0.0" velocity="1.0" lower="-5.0" upper="5.0" />
+        <limit effort="0.0" velocity="0.1" lower="-0.1" upper="0.235" />
         <parent link="robot_base" />
         <child link="y_axis_respondable" />
         <origin xyz="0.100180 0.351278 0.685000" rpy="0.000000 4.712385 1.570796" />
@@ -1132,7 +1132,7 @@
     </link>
     <joint name="x_joint" type="prismatic">
         <axis xyz="0 0 1" />
-        <limit effort="10000.0" velocity="1.0" lower="-5.0" upper="5.0" />
+        <limit effort="0" velocity="1.0" lower="-0.175" upper="0.165" />
         <parent link="y_axis_respondable" />
         <child link="X_parts" />
         <origin xyz="0.098000 0.352930 0.105000" rpy="-1.570796 3.141593 -3.141589" />
@@ -1255,7 +1255,7 @@
     </link>
     <joint name="z_joint" type="prismatic">
         <axis xyz="0 0 1" />
-        <limit effort="10000.0" velocity="1.0" lower="-5.0" upper="5.0" />
+        <limit effort="0" velocity="1.0" lower="-0.3" upper="0.1" />
         <parent link="robot_base" />
         <child link="z_axis_respondable" />
         <origin xyz="0.040168 0.364628 1.142060" rpy="3.141173 3.141593 -1.570796" />
