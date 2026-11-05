@@ -4,13 +4,13 @@
         <collision name="base_respondable">
             <origin xyz="0.025717 0.952338 0.436500" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_robot_base_coll_1.dae" />
+                <mesh filename="file://../meshes/zatana_terra_robot_base_coll_1.dae" />
             </geometry>
         </collision>
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_1.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_1.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.560784 0.270588 0.000000 1.0" />
@@ -19,7 +19,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_2.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_2.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.980392 0.627451 0.000000 1.0" />
@@ -28,7 +28,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_3.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_3.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.078431 0.078431 0.078431 1.0" />
@@ -37,7 +37,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_4.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_4.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.666667 0.666667 1.0" />
@@ -46,7 +46,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_5.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_5.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.666667 0.666667 1.0" />
@@ -55,7 +55,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_6.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_6.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.666667 0.666667 1.0" />
@@ -64,7 +64,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_7.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_7.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.666667 0.666667 1.0" />
@@ -73,7 +73,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_8.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_8.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.666667 0.666667 1.0" />
@@ -82,7 +82,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_9.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_9.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.666667 0.666667 1.0" />
@@ -91,7 +91,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_10.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_10.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.666667 0.666667 1.0" />
@@ -100,7 +100,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_11.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_11.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.666667 0.666667 1.0" />
@@ -109,7 +109,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_12.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_12.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.666667 0.666667 1.0" />
@@ -118,7 +118,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_13.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_13.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.000000 0.501961 0.000000 1.0" />
@@ -127,7 +127,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_14.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_14.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.698039 0.768627 1.0" />
@@ -136,7 +136,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_15.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_15.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.000000 0.501961 0.000000 1.0" />
@@ -145,7 +145,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_16.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_16.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.698039 0.768627 1.0" />
@@ -154,7 +154,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_17.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_17.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.000000 0.501961 0.000000 1.0" />
@@ -163,7 +163,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_18.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_18.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.698039 0.768627 1.0" />
@@ -172,7 +172,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_19.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_19.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.000000 0.501961 0.000000 1.0" />
@@ -181,7 +181,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_20.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_20.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.698039 0.768627 1.0" />
@@ -190,7 +190,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_21.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_21.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.000000 0.501961 0.000000 1.0" />
@@ -199,7 +199,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_22.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_22.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.698039 0.768627 1.0" />
@@ -208,7 +208,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_23.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_23.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.000000 0.501961 0.000000 1.0" />
@@ -217,7 +217,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_24.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_24.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.698039 0.768627 1.0" />
@@ -226,7 +226,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_25.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_25.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.000000 0.501961 0.000000 1.0" />
@@ -235,7 +235,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_26.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_26.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.698039 0.768627 1.0" />
@@ -244,7 +244,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_27.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_27.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.000000 0.501961 0.000000 1.0" />
@@ -253,7 +253,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_28.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_28.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.698039 0.768627 1.0" />
@@ -262,7 +262,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_29.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_29.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.000000 0.501961 0.000000 1.0" />
@@ -271,7 +271,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_30.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_30.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.698039 0.768627 1.0" />
@@ -280,7 +280,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_31.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_31.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.000000 0.501961 0.000000 1.0" />
@@ -289,7 +289,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_32.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_32.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.698039 0.768627 1.0" />
@@ -298,7 +298,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_33.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_33.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.647059 0.619608 0.588235 1.0" />
@@ -307,7 +307,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_34.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_34.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.647059 0.619608 0.588235 1.0" />
@@ -316,7 +316,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_35.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_35.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.647059 0.619608 0.588235 1.0" />
@@ -325,7 +325,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_36.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_36.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.000000 0.501961 1.000000 1.0" />
@@ -334,7 +334,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_37.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_37.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.286275 0.662745 0.329412 1.0" />
@@ -343,7 +343,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_38.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_38.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.792157 0.819608 0.933333 1.0" />
@@ -352,7 +352,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_39.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_39.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.007843 0.239216 0.823529 1.0" />
@@ -361,7 +361,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_40.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_40.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.501961 0.501961 0.501961 1.0" />
@@ -370,7 +370,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_41.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_41.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.694118 0.098039 0.098039 1.0" />
@@ -379,7 +379,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_42.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_42.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 1.000000 1.000000 1.0" />
@@ -388,7 +388,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_43.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_43.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.898039 0.898039 0.898039 1.0" />
@@ -397,7 +397,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_44.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_44.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 1.000000 1.000000 1.0" />
@@ -406,7 +406,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_45.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_45.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 1.000000 1.000000 1.0" />
@@ -415,7 +415,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_46.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_46.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 1.000000 1.000000 1.0" />
@@ -424,7 +424,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_47.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_47.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 1.000000 1.000000 1.0" />
@@ -433,7 +433,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_48.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_48.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 1.000000 1.000000 1.0" />
@@ -442,7 +442,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_49.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_49.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 1.000000 1.000000 1.0" />
@@ -451,7 +451,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_50.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_50.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 1.000000 1.000000 1.0" />
@@ -460,7 +460,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_51.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_51.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 1.000000 1.000000 1.0" />
@@ -469,7 +469,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_52.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_52.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.149020 0.188235 0.160784 1.0" />
@@ -478,7 +478,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_53.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_53.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.200000 0.200000 0.200000 1.0" />
@@ -487,7 +487,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_54.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_54.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.000000 0.000000 0.000000 1.0" />
@@ -496,7 +496,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_55.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_55.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 1.000000 1.000000 1.0" />
@@ -505,7 +505,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_56.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_56.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.894118 0.913725 0.929412 1.0" />
@@ -514,7 +514,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_57.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_57.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.698039 0.768627 1.0" />
@@ -523,7 +523,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_58.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_58.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.898039 0.917647 0.929412 1.0" />
@@ -532,7 +532,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_59.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_59.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.466667 0.717647 0.466667 1.0" />
@@ -541,7 +541,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_60.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_60.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.000000 1.000000 0.000000 1.0" />
@@ -550,7 +550,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_61.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_61.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.294118 0.294118 0.294118 1.0" />
@@ -559,7 +559,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_62.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_62.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.505882 0.529412 0.549020 1.0" />
@@ -568,7 +568,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_63.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_63.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.776471 0.756863 0.737255 1.0" />
@@ -577,7 +577,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_64.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_64.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.200000 0.200000 0.200000 1.0" />
@@ -586,7 +586,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_65.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_65.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 0.776471 0.160784 1.0" />
@@ -595,7 +595,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_66.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_66.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.184314 0.184314 0.184314 1.0" />
@@ -604,7 +604,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_67.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_67.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.188235 0.529412 0.890196 1.0" />
@@ -613,7 +613,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_68.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_68.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.921569 0.921569 0.921569 1.0" />
@@ -622,7 +622,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_69.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_69.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.019608 0.019608 0.019608 1.0" />
@@ -631,7 +631,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_70.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_70.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 0.000000 0.000000 1.0" />
@@ -640,7 +640,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_71.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_71.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.129412 0.541176 0.129412 1.0" />
@@ -649,7 +649,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_72.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_72.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.866667 0.486275 0.058823 1.0" />
@@ -658,7 +658,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_73.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_73.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.956863 0.956863 0.956863 1.0" />
@@ -667,7 +667,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_74.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_74.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.000000 0.400000 0.000000 1.0" />
@@ -676,7 +676,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_75.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_75.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.000000 0.000000 0.351373 1.0" />
@@ -685,7 +685,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_76.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_76.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.666667 0.666667 0.666667 1.0" />
@@ -694,7 +694,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_77.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_77.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.000000 0.351373 0.000000 1.0" />
@@ -703,7 +703,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_78.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_78.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.768627 0.768627 0.768627 1.0" />
@@ -712,7 +712,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_79.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_79.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 1.000000 1.000000 1.0" />
@@ -721,7 +721,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_80.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_80.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.250980 0.250980 0.250980 1.0" />
@@ -730,7 +730,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_81.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_81.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.909804 0.443137 0.031373 1.0" />
@@ -739,7 +739,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_82.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_82.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.792157 0.819608 0.933333 1.0" />
@@ -748,7 +748,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_83.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_83.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.752941 0.752941 0.752941 1.0" />
@@ -757,7 +757,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_84.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_84.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 1.000000 1.000000 1.0" />
@@ -766,7 +766,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_85.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_85.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.392157 0.600000 0.392157 1.0" />
@@ -775,7 +775,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_86.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_86.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 0.811765 0.501961 1.0" />
@@ -784,7 +784,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_87.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_87.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 1.000000 0.000000 1.0" />
@@ -793,7 +793,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_88.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_88.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 0.000000 0.000000 1.0" />
@@ -802,7 +802,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_89.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_89.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.690196 0.611765 0.529412 1.0" />
@@ -811,7 +811,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_90.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_90.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.109804 0.109804 0.109804 1.0" />
@@ -820,7 +820,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_91.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_91.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 1.000000 1.000000 1.0" />
@@ -829,7 +829,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_92.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_92.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.568627 0.549020 0.509804 1.0" />
@@ -838,7 +838,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_93.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_93.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.698039 0.698039 0.698039 1.0" />
@@ -847,7 +847,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_94.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_94.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.250980 0.250980 0.250980 1.0" />
@@ -856,7 +856,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_95.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_95.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 0.501961 0.501961 1.0" />
@@ -865,7 +865,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_96.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_96.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.600000 0.600000 0.600000 1.0" />
@@ -874,7 +874,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_97.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_97.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.698039 0.698039 0.698039 1.0" />
@@ -883,7 +883,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_98.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_98.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.298039 0.298039 0.298039 1.0" />
@@ -892,7 +892,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_99.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_99.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.200392 0.463922 0.230588 1.0" />
@@ -901,7 +901,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_100.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_100.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.007843 0.239216 0.823529 1.0" />
@@ -910,7 +910,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_101.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_101.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.125490 0.545098 0.141176 1.0" />
@@ -919,7 +919,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_102.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_102.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 0.937255 0.137255 1.0" />
@@ -928,7 +928,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_103.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_103.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.071373 0.071373 0.071373 1.0" />
@@ -937,7 +937,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_104.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_104.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.098039 0.098039 0.098039 1.0" />
@@ -946,7 +946,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_105.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_105.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.647059 0.517647 0.000000 1.0" />
@@ -955,7 +955,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_106.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_106.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 0.937255 0.137255 1.0" />
@@ -964,7 +964,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_107.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_107.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.900000 0.900000 0.900000 1.0" />
@@ -973,7 +973,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_108.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_108.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.647059 0.619608 0.600000 1.0" />
@@ -982,7 +982,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_109.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_109.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="1.000000 1.000000 1.000000 1.0" />
@@ -991,7 +991,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_110.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_110.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.700000 0.700000 0.700000 1.0" />
@@ -1000,7 +1000,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_111.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_111.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.968627 0.878431 0.600000 1.0" />
@@ -1009,7 +1009,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_112.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_112.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.590196 0.570980 0.527059 1.0" />
@@ -1018,7 +1018,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_113.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_113.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.498039 0.498039 0.498039 1.0" />
@@ -1027,7 +1027,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_114.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_114.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.500000 0.500000 0.500000 1.0" />
@@ -1036,7 +1036,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_115.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_115.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.400000 0.400000 0.400000 1.0" />
@@ -1045,7 +1045,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_116.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_116.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.298039 0.298039 0.298039 1.0" />
@@ -1054,7 +1054,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_117.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_117.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.500000 0.403922 0.229412 1.0" />
@@ -1063,7 +1063,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_118.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_118.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.101961 0.101961 0.101961 1.0" />
@@ -1072,7 +1072,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_119.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_119.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.517647 0.529412 0.549020 1.0" />
@@ -1081,7 +1081,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_120.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_120.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.005490 0.167451 0.576471 1.0" />
@@ -1090,7 +1090,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_121.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_121.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.909804 0.443137 0.031373 1.0" />
@@ -1099,7 +1099,7 @@
         <visual name="base">
             <origin xyz="0.100000 0.000000 0.000000" rpy="-3.141593 3.141593 -3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_base_vis_122.dae" />
+                <mesh filename="file://../meshes/zatana_terra_base_vis_122.dae" />
             </geometry>
             <material name="base_material">
                 <color rgba="0.752941 1.000000 0.752941 1.0" />
@@ -1117,13 +1117,13 @@
         <collision name="y_axis_respondable">
             <origin xyz="0.000000 0.000000 0.000000" rpy="-3.141593 3.141593 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_y_axis_respondable_coll_1.dae" />
+                <mesh filename="file://../meshes/zatana_terra_y_axis_respondable_coll_1.dae" />
             </geometry>
         </collision>
         <visual name="Y_parts">
             <origin xyz="0.000001 0.000000 0.000000" rpy="-3.141593 3.141593 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Y_parts_vis_1.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Y_parts_vis_1.dae" />
             </geometry>
             <material name="Y_parts_material">
                 <color rgba="0.266667 0.266667 0.266667 1.0" />
@@ -1141,7 +1141,7 @@
         <visual name="X_parts">
             <origin xyz="-0.085401 0.000477 0.221500" rpy="-3.141593 4.712385 -0.000004" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_X_parts_vis_1.dae" />
+                <mesh filename="file://../meshes/zatana_terra_X_parts_vis_1.dae" />
             </geometry>
             <material name="X_parts_material">
                 <color rgba="0.560784 0.270588 0.000000 1.0" />
@@ -1150,7 +1150,7 @@
         <visual name="X_parts">
             <origin xyz="-0.085401 0.000477 0.221500" rpy="-3.141593 4.712385 -0.000004" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_X_parts_vis_2.dae" />
+                <mesh filename="file://../meshes/zatana_terra_X_parts_vis_2.dae" />
             </geometry>
             <material name="X_parts_material">
                 <color rgba="0.027451 0.125490 0.082353 1.0" />
@@ -1159,7 +1159,7 @@
         <visual name="X_parts">
             <origin xyz="-0.085401 0.000477 0.221500" rpy="-3.141593 4.712385 -0.000004" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_X_parts_vis_3.dae" />
+                <mesh filename="file://../meshes/zatana_terra_X_parts_vis_3.dae" />
             </geometry>
             <material name="X_parts_material">
                 <color rgba="0.000000 0.000000 0.000000 1.0" />
@@ -1168,7 +1168,7 @@
         <visual name="X_parts">
             <origin xyz="-0.085401 0.000477 0.221500" rpy="-3.141593 4.712385 -0.000004" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_X_parts_vis_4.dae" />
+                <mesh filename="file://../meshes/zatana_terra_X_parts_vis_4.dae" />
             </geometry>
             <material name="X_parts_material">
                 <color rgba="1.000000 1.000000 1.000000 1.0" />
@@ -1177,7 +1177,7 @@
         <visual name="X_parts">
             <origin xyz="-0.085401 0.000477 0.221500" rpy="-3.141593 4.712385 -0.000004" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_X_parts_vis_5.dae" />
+                <mesh filename="file://../meshes/zatana_terra_X_parts_vis_5.dae" />
             </geometry>
             <material name="X_parts_material">
                 <color rgba="0.666667 0.698039 0.768627 1.0" />
@@ -1186,7 +1186,7 @@
         <visual name="X_parts">
             <origin xyz="-0.085401 0.000477 0.221500" rpy="-3.141593 4.712385 -0.000004" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_X_parts_vis_6.dae" />
+                <mesh filename="file://../meshes/zatana_terra_X_parts_vis_6.dae" />
             </geometry>
             <material name="X_parts_material">
                 <color rgba="0.894118 0.913725 0.929412 1.0" />
@@ -1195,7 +1195,7 @@
         <visual name="X_parts">
             <origin xyz="-0.085401 0.000477 0.221500" rpy="-3.141593 4.712385 -0.000004" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_X_parts_vis_7.dae" />
+                <mesh filename="file://../meshes/zatana_terra_X_parts_vis_7.dae" />
             </geometry>
             <material name="X_parts_material">
                 <color rgba="0.898039 0.917647 0.929412 1.0" />
@@ -1204,7 +1204,7 @@
         <visual name="X_parts">
             <origin xyz="-0.085401 0.000477 0.221500" rpy="-3.141593 4.712385 -0.000004" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_X_parts_vis_8.dae" />
+                <mesh filename="file://../meshes/zatana_terra_X_parts_vis_8.dae" />
             </geometry>
             <material name="X_parts_material">
                 <color rgba="0.200000 0.200000 0.200000 1.0" />
@@ -1213,7 +1213,7 @@
         <visual name="X_parts">
             <origin xyz="-0.085401 0.000477 0.221500" rpy="-3.141593 4.712385 -0.000004" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_X_parts_vis_9.dae" />
+                <mesh filename="file://../meshes/zatana_terra_X_parts_vis_9.dae" />
             </geometry>
             <material name="X_parts_material">
                 <color rgba="0.294118 0.294118 0.294118 1.0" />
@@ -1231,13 +1231,13 @@
         <collision name="y_axis_rev_respondable">
             <origin xyz="0.000000 0.000000 0.000000" rpy="0.000000 -1.570796 0.000000" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_y_axis_rev_respondable_coll_1.dae" />
+                <mesh filename="file://../meshes/zatana_terra_y_axis_rev_respondable_coll_1.dae" />
             </geometry>
         </collision>
         <visual name="Y_axis">
             <origin xyz="-0.018722 -0.003247 -0.352508" rpy="-1.570796 4.712385 -1.408604" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Y_axis_vis_1.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Y_axis_vis_1.dae" />
             </geometry>
             <material name="Y_axis_material">
                 <color rgba="0.200000 0.200000 0.200000 1.0" />
@@ -1246,7 +1246,7 @@
         <visual name="Y_axis">
             <origin xyz="-0.018722 -0.003247 -0.352508" rpy="-1.570796 4.712385 -1.408604" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Y_axis_vis_2.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Y_axis_vis_2.dae" />
             </geometry>
             <material name="Y_axis_material">
                 <color rgba="0.278431 0.121569 0.000000 1.0" />
@@ -1264,13 +1264,13 @@
         <collision name="z_axis_respondable">
             <origin xyz="0.000000 0.000000 0.000000" rpy="-1.570581 3.141593 3.141593" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_z_axis_respondable_coll_1.dae" />
+                <mesh filename="file://../meshes/zatana_terra_z_axis_respondable_coll_1.dae" />
             </geometry>
         </collision>
         <visual name="Z_parts">
             <origin xyz="-0.044628 -0.013081 -0.002066" rpy="-3.141593 3.141173 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Z_parts_vis_1.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Z_parts_vis_1.dae" />
             </geometry>
             <material name="Z_parts_material">
                 <color rgba="0.792157 0.819608 0.933333 1.0" />
@@ -1279,7 +1279,7 @@
         <visual name="Z_parts">
             <origin xyz="-0.044628 -0.013081 -0.002066" rpy="-3.141593 3.141173 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Z_parts_vis_2.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Z_parts_vis_2.dae" />
             </geometry>
             <material name="Z_parts_material">
                 <color rgba="0.200000 0.200000 0.200000 1.0" />
@@ -1288,7 +1288,7 @@
         <visual name="Z_parts">
             <origin xyz="-0.044628 -0.013081 -0.002066" rpy="-3.141593 3.141173 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Z_parts_vis_3.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Z_parts_vis_3.dae" />
             </geometry>
             <material name="Z_parts_material">
                 <color rgba="0.200000 0.200000 0.200000 1.0" />
@@ -1297,7 +1297,7 @@
         <visual name="Z_parts">
             <origin xyz="-0.044628 -0.013081 -0.002066" rpy="-3.141593 3.141173 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Z_parts_vis_4.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Z_parts_vis_4.dae" />
             </geometry>
             <material name="Z_parts_material">
                 <color rgba="0.200000 0.200000 0.200000 1.0" />
@@ -1306,7 +1306,7 @@
         <visual name="Z_parts">
             <origin xyz="-0.044628 -0.013081 -0.002066" rpy="-3.141593 3.141173 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Z_parts_vis_5.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Z_parts_vis_5.dae" />
             </geometry>
             <material name="Z_parts_material">
                 <color rgba="1.000000 1.000000 1.000000 1.0" />
@@ -1315,7 +1315,7 @@
         <visual name="Z_parts">
             <origin xyz="-0.044628 -0.013081 -0.002066" rpy="-3.141593 3.141173 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Z_parts_vis_6.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Z_parts_vis_6.dae" />
             </geometry>
             <material name="Z_parts_material">
                 <color rgba="0.298039 0.298039 0.298039 1.0" />
@@ -1324,7 +1324,7 @@
         <visual name="Z_parts">
             <origin xyz="-0.044628 -0.013081 -0.002066" rpy="-3.141593 3.141173 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Z_parts_vis_7.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Z_parts_vis_7.dae" />
             </geometry>
             <material name="Z_parts_material">
                 <color rgba="0.792157 0.819608 0.933333 1.0" />
@@ -1333,7 +1333,7 @@
         <visual name="Z_parts">
             <origin xyz="-0.044628 -0.013081 -0.002066" rpy="-3.141593 3.141173 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Z_parts_vis_8.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Z_parts_vis_8.dae" />
             </geometry>
             <material name="Z_parts_material">
                 <color rgba="0.800000 0.800000 0.800000 1.0" />
@@ -1342,7 +1342,7 @@
         <visual name="Z_parts">
             <origin xyz="-0.044628 -0.013081 -0.002066" rpy="-3.141593 3.141173 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Z_parts_vis_9.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Z_parts_vis_9.dae" />
             </geometry>
             <material name="Z_parts_material">
                 <color rgba="1.000000 1.000000 0.000000 1.0" />
@@ -1351,7 +1351,7 @@
         <visual name="Z_parts">
             <origin xyz="-0.044628 -0.013081 -0.002066" rpy="-3.141593 3.141173 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Z_parts_vis_10.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Z_parts_vis_10.dae" />
             </geometry>
             <material name="Z_parts_material">
                 <color rgba="0.901961 0.921569 0.921569 1.0" />
@@ -1360,7 +1360,7 @@
         <visual name="Z_parts">
             <origin xyz="-0.044628 -0.013081 -0.002066" rpy="-3.141593 3.141173 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Z_parts_vis_11.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Z_parts_vis_11.dae" />
             </geometry>
             <material name="Z_parts_material">
                 <color rgba="0.000000 0.666667 0.000000 1.0" />
@@ -1369,7 +1369,7 @@
         <visual name="Z_parts">
             <origin xyz="-0.044628 -0.013081 -0.002066" rpy="-3.141593 3.141173 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Z_parts_vis_12.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Z_parts_vis_12.dae" />
             </geometry>
             <material name="Z_parts_material">
                 <color rgba="1.000000 0.000000 0.000000 1.0" />
@@ -1378,7 +1378,7 @@
         <visual name="Z_parts">
             <origin xyz="-0.044628 -0.013081 -0.002066" rpy="-3.141593 3.141173 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Z_parts_vis_13.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Z_parts_vis_13.dae" />
             </geometry>
             <material name="Z_parts_material">
                 <color rgba="1.000000 1.000000 1.000000 1.0" />
@@ -1387,7 +1387,7 @@
         <visual name="Z_parts">
             <origin xyz="-0.044628 -0.013081 -0.002066" rpy="-3.141593 3.141173 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Z_parts_vis_14.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Z_parts_vis_14.dae" />
             </geometry>
             <material name="Z_parts_material">
                 <color rgba="0.000000 0.000000 1.000000 1.0" />
@@ -1396,7 +1396,7 @@
         <visual name="Z_parts">
             <origin xyz="-0.044628 -0.013081 -0.002066" rpy="-3.141593 3.141173 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Z_parts_vis_15.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Z_parts_vis_15.dae" />
             </geometry>
             <material name="Z_parts_material">
                 <color rgba="0.254902 0.254902 0.254902 1.0" />
@@ -1405,7 +1405,7 @@
         <visual name="Z_parts">
             <origin xyz="-0.044628 -0.013081 -0.002066" rpy="-3.141593 3.141173 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Z_parts_vis_16.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Z_parts_vis_16.dae" />
             </geometry>
             <material name="Z_parts_material">
                 <color rgba="0.800000 0.800000 0.800000 1.0" />
@@ -1414,7 +1414,7 @@
         <visual name="Z_parts">
             <origin xyz="-0.044628 -0.013081 -0.002066" rpy="-3.141593 3.141173 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Z_parts_vis_17.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Z_parts_vis_17.dae" />
             </geometry>
             <material name="Z_parts_material">
                 <color rgba="0.000000 0.000000 0.000000 1.0" />
@@ -1423,7 +1423,7 @@
         <visual name="Z_parts">
             <origin xyz="-0.044628 -0.013081 -0.002066" rpy="-3.141593 3.141173 1.570796" />
             <geometry>
-                <mesh filename="file://C:/Users/amuntu/Desktop/zatana_terra/zatana_terra_Z_parts_vis_18.dae" />
+                <mesh filename="file://../meshes/zatana_terra_Z_parts_vis_18.dae" />
             </geometry>
             <material name="Z_parts_material">
                 <color rgba="0.666667 0.698039 0.768627 1.0" />
