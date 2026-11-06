@@ -1220,7 +1220,7 @@
             </material>
         </visual>
     </link>
-    <joint name="y_rev_joint" type="revolute">
+    <joint name="y_rev_joint" type="fixed">
         <axis xyz="0 0 1" />
         <limit effort="0.0" velocity="0.0" lower="-87266.462599722" upper="87266.462599722" />
         <parent link="robot_base" />
